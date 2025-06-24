@@ -14,7 +14,7 @@
 ## 👨‍💻 Developers
 
 - **David Kim**
-- **Myungsung Kim**
+- **Myeungsung Kim**
 
 ---
 
