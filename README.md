@@ -44,10 +44,22 @@
 
 ---
 
+## 📚 CSF(Component Story Format)
+
+> storybook tool 을 사용해, 기획과 화면의 흐름을 document 형식으로 관리하며, 시각적인 화면을 제공해 Design 의 관과가 수월합니다.
+
+---
+
 ## ⚙️ Setup App
 
 ### ✅ For macOS users
 
 ```bash
 npm run build:app:dev
+```
+
+## 🔍 Storybook
+
+```bash
+npm run storybook
 ```
