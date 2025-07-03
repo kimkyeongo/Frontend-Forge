@@ -1,5 +1,7 @@
 import './button.css';
 
+import { cn } from "@/lib/utils"
+
 export interface ButtonProps {
   /** Is this the principal call to action on the page? */
   primary?: boolean;
